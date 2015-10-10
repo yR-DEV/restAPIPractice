@@ -35,3 +35,6 @@ app.use('/api', router);
 //starting the server
 app.listen(port);
 console.log('server runnin runnin runnin on ' + port);
+
+
+//I am going to try and get this far in my application before I continue on the tutorial.
